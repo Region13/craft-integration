@@ -23,9 +23,9 @@
     ],
     "require": {
         "craftcms/cms": "^3.0.0",
-        "symfony/property-access": "^3.3",
-        "symfony/finder": "^3.3",
-        "symfony/filesystem": "^3.3",
+        "symfony/property-access": "^4.0",
+        "symfony/finder": "^4.0",
+        "symfony/filesystem": "^4.0",
         "pixel418/markdownify": "2.1.11"
     },
     "repositories": [
